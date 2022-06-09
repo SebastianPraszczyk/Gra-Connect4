@@ -1,0 +1,56 @@
+#index{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#title{
+    position: fixed;
+    top:150px;
+    left:200px;
+    text-align: left;
+    font-size: 50px;
+    color: black;
+}
+
+#index_btn{
+    background-color: black;
+    width: 400px;
+    height: 40px;
+    position: fixed;
+    top:350px;
+    left:200px;
+}
+
+img{
+    position: fixed; 
+    top:130px;
+    right:200px;
+    width: 400px;
+    height: 400px;
+}
+
+#game_index{
+    background-color: white;
+    text-align: center;
+}
+
+a{
+    text-decoration: none; 
+    color: white;
+    font-weight: bold;
+}
+
+#game_btn{
+    background-color: black;
+    width: 450px;
+    height: 40px;
+}
+
+#player_1{
+    color:green;
+}
+
+#player_2{
+    color:blue;
+}
